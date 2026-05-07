@@ -101,19 +101,6 @@ Currently improving my skills in:
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Miguezx21&show_icons=true&theme=tokyonight"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguezx21&layout=compact&theme=tokyonight"
-/>
-
-</p>
 
 <p align="center">
 
